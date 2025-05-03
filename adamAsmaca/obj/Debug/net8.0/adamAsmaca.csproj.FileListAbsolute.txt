@@ -1,0 +1,14 @@
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.AssemblyInfoInputs.cache
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.AssemblyInfo.cs
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\bin\Debug\net8.0\adamAsmaca.exe
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\bin\Debug\net8.0\adamAsmaca.deps.json
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\bin\Debug\net8.0\adamAsmaca.runtimeconfig.json
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\bin\Debug\net8.0\adamAsmaca.dll
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\bin\Debug\net8.0\adamAsmaca.pdb
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.dll
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\refint\adamAsmaca.dll
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.pdb
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\adamAsmaca.genruntimeconfig.cache
+C:\Users\ISKO\Documents\Works\Dersler\adamAsmaca\obj\Debug\net8.0\ref\adamAsmaca.dll
